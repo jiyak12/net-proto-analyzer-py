@@ -30,6 +30,7 @@ def packet_callback(packet):
 
         packet_count += 1  # Increment the packet count
 
+
 def main():
     # Start sniffing the network
     print("Starting packet capture. Press Ctrl+C to stop.")
